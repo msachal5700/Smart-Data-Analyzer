@@ -19,4 +19,4 @@ This project analyzes a CSV dataset and provides key insights.
 pip install pandas
 
 2. Run the script:
-python analyze_data.py
+python smart-data-analyzer.py
